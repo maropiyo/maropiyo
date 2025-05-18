@@ -1,4 +1,15 @@
-## Hi there 👋
+## 🐤 About Me
+Hi, I'm a bird-loving developer.
+
+## 🔨 Created Apps
+
+- [インコゲーム](https://maropiyo.com/parrot-game)
+- [スライドリ](https://maropiyo.com/slide-bird)
+
+## 📨 Contact
+
+- [𝕏 - @maropiyooo](https://x.com/maropiyooo)
+- [WebSite](https://maropiyo.com)
 
 <!--
 **maropiyo/maropiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
