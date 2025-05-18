@@ -1,7 +1,7 @@
 ## 🐤 About Me
 Hi, I'm a bird-loving developer.
 
-## 🔨 Created Apps
+## 📱 Created Apps
 
 - [View all my apps](https://maropiyo.com/works/)
 
