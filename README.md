@@ -8,7 +8,6 @@ Hi, I'm a bird-loving developer.
 ## 📨 Contact
 
 - [𝕏 - @maropiyooo](https://x.com/maropiyooo)
-- [Website](https://maropiyo.com)
 
 <!--
 **maropiyo/maropiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
