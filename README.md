@@ -3,8 +3,7 @@ Hi, I'm a bird-loving developer.
 
 ## 🔨 Created Apps
 
-- [インコゲーム](https://maropiyo.com/parrot-game)
-- [スライドリ](https://maropiyo.com/slide-bird)
+- [Here](https://maropiyo.com/works/)
 
 ## 📨 Contact
 
