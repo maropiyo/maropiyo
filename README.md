@@ -3,11 +3,11 @@ Hi, I'm a bird-loving developer.
 
 ## 📱 Created Apps
 
-- [View all my apps](https://maropiyo.com/works/)
+[View all my apps](https://maropiyo.com/works/)
 
 ## 📨 Contact
 
-- [𝕏 - @maropiyooo](https://x.com/maropiyooo)
+[𝕏 - @maropiyooo](https://x.com/maropiyooo)
 
 <!--
 **maropiyo/maropiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
