@@ -3,7 +3,7 @@ Hi, I'm a bird-loving developer.
 
 ## 📱 Created Apps
 
-[View all my apps](https://maropiyo.com/works/)
+[View All](https://maropiyo.com/works/)
 
 ## 📨 Contact
 
