@@ -1,11 +1,12 @@
-## 🐤 About Me
-Hi, I'm a bird-loving developer.
+## About Me
 
-## 📱 Created Apps
+鳥好きのデベロッパーです！
 
-[View All](https://maropiyo.com/works/)
+## Apps
 
-## 📨 Contact
+[つくったもの](https://maropiyo.com/works/)
+
+## Contact
 
 [𝕏 - @maropiyooo](https://x.com/maropiyooo)
 
