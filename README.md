@@ -1,6 +1,6 @@
 ## About Me
 
-鳥好きのアプリ開発者です！
+I'm Developarrot.
 
 ## Apps
 
