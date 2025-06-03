@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Developarrot.
+I'm Developarrot🦜
 
 ## Apps
 
