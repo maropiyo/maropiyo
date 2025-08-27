@@ -1,8 +1,6 @@
-## About Me
-
 とりのゲームやアプリを作ったりしてます🐤
 
-## Apps
+## つくったもの
 
 <a href="https://maropiyo.com/slide-bird/">
  <img src="https://github.com/user-attachments/assets/b5000f29-77c8-4c8b-9cd9-ccb5894f0405" alt="スライドリ" width="20%">
@@ -16,7 +14,7 @@
  <img src="https://github.com/user-attachments/assets/45251651-9c3c-4b67-a56c-eff23642571c" alt="とりジャンプ" width="20%">
 </a>
 
-## Contact
+## 連絡先
 
 [𝕏 - @maropiyooo](https://x.com/maropiyooo)
 
