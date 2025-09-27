@@ -4,6 +4,11 @@
 
 ## つくったもの
 
+
+<a href="https://maropiyo.com/reminder-parrot/">
+ <img src="https://github.com/user-attachments/assets/bfc40cea-484e-4a5e-b584-04bf6f51b0d6" alt="リマインコ" width="20%">
+</a>
+
 <a href="https://maropiyo.com/slide-bird/">
  <img src="https://github.com/user-attachments/assets/b5000f29-77c8-4c8b-9cd9-ccb5894f0405" alt="スライドリ" width="20%">
 </a>
