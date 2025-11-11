@@ -1,9 +1,4 @@
-## はじめまして
-
-とりのゲームやアプリを作ったりしてます🐤
-
 ## つくったもの
-
 
 <a href="https://maropiyo.com/reminder-parrot/">
  <img src="https://github.com/user-attachments/assets/bfc40cea-484e-4a5e-b584-04bf6f51b0d6" alt="リマインコ" width="20%">
