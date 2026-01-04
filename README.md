@@ -1,7 +1,7 @@
-## つくったもの
+## Game Apps
 
-<a href="https://maropiyo.com/reminder-parrot/">
- <img src="https://github.com/user-attachments/assets/bfc40cea-484e-4a5e-b584-04bf6f51b0d6" alt="リマインコ" width="20%">
+<a href="https://maropiyo.com/toripple/">
+ <img src="https://github.com/user-attachments/assets/3d4a5584-c2af-40db-8bdb-fb2fa93eead9" alt="とりっぷる" width="20%"/>
 </a>
 
 <a href="https://maropiyo.com/slide-bird/">
@@ -16,21 +16,12 @@
  <img src="https://github.com/user-attachments/assets/45251651-9c3c-4b67-a56c-eff23642571c" alt="とりジャンプ" width="20%">
 </a>
 
-## 連絡先
+## Non-Game Apps
+
+<a href="https://maropiyo.com/reminder-parrot/">
+ <img src="https://github.com/user-attachments/assets/bfc40cea-484e-4a5e-b584-04bf6f51b0d6" alt="リマインコ" width="20%">
+</a>
+
+## Contact
 
 [𝕏 - @maropiyooo](https://x.com/maropiyooo)
-
-<!--
-**maropiyo/maropiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
